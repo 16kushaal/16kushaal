@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Kushaal.
 - 👀 I’m interested in AI and Machine Learning.
 - 🌱 I’m currently studying BE. AIML at RVCE.
-- 📫 How to reach me:
-- kushaal.1607@gmail.com
-- [**LinkedIn**](https://www.linkedin.com/in/skushaal/)
+- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/skushaal/)
 
 <!---
 16kushaal/16kushaal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
