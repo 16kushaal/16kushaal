@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Kushaal.
+<p align="center">
+  <b># Hello 👋, Kushaal here</b>
+</p>
 - 👀 I’m interested in AI and Machine Learning.
 - 🌱 I’m currently studying BE. AIML at RVCE.
 - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/skushaal/)
