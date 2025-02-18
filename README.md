@@ -5,7 +5,7 @@
 </p>
 
 - 🏫 Studying at **R V COLLEGE OF ENGINEERING**, Bengaluru  
-- 📖 B.E in Artifical Intelligence and Machine Learning
+- 📖 B.E in Artifical Intelligence and Machine Learning (2022-2026)
 
 
 ## 📫 Let's Connect!
