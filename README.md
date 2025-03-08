@@ -15,8 +15,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kushaal.sathish@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/13Y9Eeb-0sZPYXWN7yBmCHkuDGwU642vH/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-%230077B5.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
